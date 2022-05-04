@@ -1,0 +1,26 @@
+body{
+background-color: aquamarine;
+font-family:'Franklin Gothic Medium', Arial, sans-serif;
+font-size: 8;
+line-height:normal
+}
+h1{
+  color:black;
+  font-size: 22;
+  line-height: larger
+}
+h2{
+  font-family: 'Arial Narrow';
+  line-height: small;
+
+}
+h3{
+
+}
+a{
+color:blue ;
+text-decoration: dotted;
+}
+p{
+color: dimgray;
+}
